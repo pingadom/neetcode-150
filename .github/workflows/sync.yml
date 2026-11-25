@@ -1,0 +1,75 @@
+name: Sync NeetCode 150
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '13,43 * * * *'
+  push:
+    paths:
+      - 'scripts/**'
+      - 'tests/**'
+      - 'data/neetcode150.json'
+      - 'data/sources.json'
+      - '.github/workflows/sync.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: neetcode150-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out NeetCode 150 repository
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+
+      - name: Read source repository names
+        id: sources
+        run: |
+          python - <<'PY'
+          import json, os, re
+          sources = json.load(open('data/sources.json'))
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as out:
+              for platform in ('leetcode', 'neetcode'):
+                  repo = sources[platform]
+                  if not re.fullmatch(r'[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+', repo):
+                      raise ValueError('Invalid repository')
+                  print(f'{platform}={repo}', file=out)
+          PY
+
+      - name: Read LeetCode submissions
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          repository: ${{ steps.sources.outputs.leetcode }}
+          path: .sources/leetcode
+          persist-credentials: false
+
+      - name: Read NeetCode submissions
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          repository: ${{ steps.sources.outputs.neetcode }}
+          path: .sources/neetcode
+          persist-credentials: false
+
+      - name: Test allowlist, imports and progress counting
+        run: python -m unittest discover -s tests -v
+
+      - name: Import only NeetCode 150 solutions
+        run: python scripts/sync.py --leetcode .sources/leetcode --neetcode .sources/neetcode
+
+      - name: Commit changed solutions and checklist
+        run: |
+          git add -- README.md data/provenance.json data/progress.json
+          if [ -d solutions ]; then git add -- solutions; fi
+          if git diff --cached --quiet; then
+            echo 'Already up to date.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Sync my NeetCode 150 solutions and progress'
+          git push

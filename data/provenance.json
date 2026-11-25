@@ -1,0 +1,502 @@
+{
+  "solutions/1-d-dynamic-programming/0005-longest-palindromic-substring/leetcode/0005-longest-palindromic-substring.py": {
+    "problem_id": "0005-longest-palindromic-substring",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0005-longest-palindromic-substring/0005-longest-palindromic-substring.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "aba15394ca29d97c1c1484f25cb47c8a38ab284f",
+    "sha256": "960127e5aa3d04cee4af03119c79cd5e1fda2f910745ee975c0354086e8bc915",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0005-longest-palindromic-substring/0005-longest-palindromic-substring.py"
+  },
+  "solutions/1-d-dynamic-programming/0070-climbing-stairs/leetcode/0070-climbing-stairs.py": {
+    "problem_id": "0070-climbing-stairs",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0070-climbing-stairs/0070-climbing-stairs.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "273d70af6cbf2365506a9ba286c675b75cc32213",
+    "sha256": "6afff24436961118e0d87b9616234b77fd93bf5a5abd0e8ec3480250a536fc77",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0070-climbing-stairs/0070-climbing-stairs.py"
+  },
+  "solutions/1-d-dynamic-programming/0198-house-robber/leetcode/0198-house-robber.py": {
+    "problem_id": "0198-house-robber",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0198-house-robber/0198-house-robber.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "97291bc93fc97a033d459b94289705d0c4578701",
+    "sha256": "e4da2995aadb2fbe718fc2a65ba86044c697e3641784fde3caa7f9870df11495",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0198-house-robber/0198-house-robber.py"
+  },
+  "solutions/2-d-dynamic-programming/0010-regular-expression-matching/leetcode/0010-regular-expression-matching.py": {
+    "problem_id": "0010-regular-expression-matching",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0010-regular-expression-matching/0010-regular-expression-matching.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "812d064a20d04863c0976f3cc211cd699fcadb9b",
+    "sha256": "3b3908306e152e7b412d6f709ac60bef17d815aaca3abf1518f772bdb07c31bb",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0010-regular-expression-matching/0010-regular-expression-matching.py"
+  },
+  "solutions/2-d-dynamic-programming/0072-edit-distance/leetcode/0072-edit-distance.py": {
+    "problem_id": "0072-edit-distance",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0072-edit-distance/0072-edit-distance.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "ba488690be835238173659fc3ec6b3112323f78a",
+    "sha256": "48634849c341bb04347cdf993a7ebdf443e23a84256713d58a164d05995ba9cf",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0072-edit-distance/0072-edit-distance.py"
+  },
+  "solutions/arrays-hashing/0001-two-sum/leetcode/0001-two-sum.py": {
+    "problem_id": "0001-two-sum",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0001-two-sum/0001-two-sum.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "dcc361818c89990252dbb94a3b1c8b52b0332b57",
+    "sha256": "e99a1578a84a1cf7f4f58f98e488310c3f2ef59f282c8da032a41bb463d30d66",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0001-two-sum/0001-two-sum.py"
+  },
+  "solutions/arrays-hashing/0036-valid-sudoku/leetcode/0036-valid-sudoku.py": {
+    "problem_id": "0036-valid-sudoku",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0036-valid-sudoku/0036-valid-sudoku.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "e8c437b553de1455d6906fd1535072056a6902f8",
+    "sha256": "3d8874b3055b4eacf7b8ef434fabd60949681476b4dc5b62d55986b090af4e8c",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0036-valid-sudoku/0036-valid-sudoku.py"
+  },
+  "solutions/arrays-hashing/0049-group-anagrams/leetcode/0049-group-anagrams.py": {
+    "problem_id": "0049-group-anagrams",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0049-group-anagrams/0049-group-anagrams.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "e6a32963b83afb1b85cee20588ccc786c207139f",
+    "sha256": "66b9ed4e8e007337ab5e6d50f70f3ab473314b4a7331d111c8ac8e255c78c5c0",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0049-group-anagrams/0049-group-anagrams.py"
+  },
+  "solutions/arrays-hashing/0128-longest-consecutive-sequence/leetcode/0128-longest-consecutive-sequence.py": {
+    "problem_id": "0128-longest-consecutive-sequence",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "ad45ac3ae01fd053a5a608171abf638ee361f580",
+    "sha256": "5f5c878911612266127605597dd107b16bebbf8c886ca9197ceb1757fad1ee67",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0128-longest-consecutive-sequence/0128-longest-consecutive-sequence.py"
+  },
+  "solutions/arrays-hashing/0217-contains-duplicate/leetcode/0217-contains-duplicate.py": {
+    "problem_id": "0217-contains-duplicate",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0217-contains-duplicate/0217-contains-duplicate.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "438d4ff2cbe97eb2fe2a5ec6e03587e51db69b86",
+    "sha256": "4d08450d22728715a6036be5980f3a1668f76767c67d5ff9ff619560ea143121",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0217-contains-duplicate/0217-contains-duplicate.py"
+  },
+  "solutions/arrays-hashing/0242-valid-anagram/leetcode/0242-valid-anagram.py": {
+    "problem_id": "0242-valid-anagram",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0242-valid-anagram/0242-valid-anagram.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "744cc4286ebd17875f4187db2d03001664c4142b",
+    "sha256": "6fac3513c72c8b60d05beb5892abd494fea572ed0c0b390253503d8c237a72ce",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0242-valid-anagram/0242-valid-anagram.py"
+  },
+  "solutions/arrays-hashing/0347-top-k-frequent-elements/leetcode/0347-top-k-frequent-elements.py": {
+    "problem_id": "0347-top-k-frequent-elements",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0347-top-k-frequent-elements/0347-top-k-frequent-elements.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "390da85e6d05fb0bccef501610062155c1282d16",
+    "sha256": "81941ab690505f97f0254eef931862478a2b963e4045820c178c76226a44ea46",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0347-top-k-frequent-elements/0347-top-k-frequent-elements.py"
+  },
+  "solutions/backtracking/0017-letter-combinations-of-a-phone-number/leetcode/0017-letter-combinations-of-a-phone-number.py": {
+    "problem_id": "0017-letter-combinations-of-a-phone-number",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "cc9207edec9d078da829dd70d5fb7777f1961573",
+    "sha256": "a682f2542b0616d88f6f78d343829c4cd0dea0d0010f2f2d3d55423d4361b784",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.py"
+  },
+  "solutions/backtracking/0022-generate-parentheses/leetcode/0022-generate-parentheses.py": {
+    "problem_id": "0022-generate-parentheses",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0022-generate-parentheses/0022-generate-parentheses.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "5387e16ce714088bc33d64b1470a6092b8386961",
+    "sha256": "694c6349076acaab3772be1d1ef71e04949ee5daacc4942c75019261643451d5",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0022-generate-parentheses/0022-generate-parentheses.py"
+  },
+  "solutions/backtracking/0039-combination-sum/leetcode/0039-combination-sum.py": {
+    "problem_id": "0039-combination-sum",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0039-combination-sum/0039-combination-sum.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "88fbdc24f8ea1d99c0ee03561a158f07be3dbe9f",
+    "sha256": "47b36380c72c2c0f1f7ef4e3d4010b243a644384d041934b219454daa1a05de7",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0039-combination-sum/0039-combination-sum.py"
+  },
+  "solutions/backtracking/0040-combination-sum-ii/leetcode/0040-combination-sum-ii.py": {
+    "problem_id": "0040-combination-sum-ii",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0040-combination-sum-ii/0040-combination-sum-ii.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "06f81708e6a42f85e28224e24da9023b034224b1",
+    "sha256": "f1c4462003df1595c798bbc800f151179c0f3a1a7794763a8aa7618ea6e1224f",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0040-combination-sum-ii/0040-combination-sum-ii.py"
+  },
+  "solutions/backtracking/0046-permutations/leetcode/0046-permutations.py": {
+    "problem_id": "0046-permutations",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0046-permutations/0046-permutations.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "72d66f03347bd70da4072cb66e4181c1e2462612",
+    "sha256": "8ef0b7d4501fa75364d2a3eba8d82e6c9f70b23b3fdcabfde93ac6be1d229023",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0046-permutations/0046-permutations.py"
+  },
+  "solutions/backtracking/0051-n-queens/leetcode/0051-n-queens.py": {
+    "problem_id": "0051-n-queens",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0051-n-queens/0051-n-queens.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "5237f589f0afcd9a3d8b2ad385a7eca6c7972aa4",
+    "sha256": "a01a86092d7e990cc606a3949bded6eb8998c4f1f386a2fd7bbac277bf2eda12",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0051-n-queens/0051-n-queens.py"
+  },
+  "solutions/backtracking/0078-subsets/leetcode/0078-subsets.py": {
+    "problem_id": "0078-subsets",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0078-subsets/0078-subsets.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "8a8257a1c243160122d2d9b6da34eedd3a01f6fd",
+    "sha256": "766b1930c17f725a35c502394776857b41c789e7ad5a60a9a37b48a27a3a04ce",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0078-subsets/0078-subsets.py"
+  },
+  "solutions/backtracking/0079-word-search/leetcode/0079-word-search.py": {
+    "problem_id": "0079-word-search",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0079-word-search/0079-word-search.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "7d54003173d8f1e17443dfae1408c83e85f62e37",
+    "sha256": "c4d85e2e6ec70d4a7f5e85f497e20ad1e251cccee3cc81dc2778a334c7f8ff70",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0079-word-search/0079-word-search.py"
+  },
+  "solutions/binary-search/0004-median-of-two-sorted-arrays/leetcode/0004-median-of-two-sorted-arrays.py": {
+    "problem_id": "0004-median-of-two-sorted-arrays",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "ffafcf7a3f571301c020536c8ef32d6bfb5462a7",
+    "sha256": "22ec509fd21c798f3cb07e4fcf2da94a1ad7d8d31d460ab0e4734176dc6feeed",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.py"
+  },
+  "solutions/binary-search/0033-search-in-rotated-sorted-array/leetcode/0033-search-in-rotated-sorted-array.py": {
+    "problem_id": "0033-search-in-rotated-sorted-array",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "05eb17c08a6b4d4cdf261f52371a685709e33bdc",
+    "sha256": "db13023b4b5b45c77143775cbf51dcdccef902577e90db9f6ab4ed299da49412",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.py"
+  },
+  "solutions/bit-manipulation/0007-reverse-integer/leetcode/0007-reverse-integer.py": {
+    "problem_id": "0007-reverse-integer",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0007-reverse-integer/0007-reverse-integer.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "c60594072e220c54385718253e7e1ee6cb362693",
+    "sha256": "0a011174f148da93ba5c2adb01fc00669893c475f8b95a02191d37f48076c44a",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0007-reverse-integer/0007-reverse-integer.py"
+  },
+  "solutions/greedy/0045-jump-game-ii/leetcode/0045-jump-game-ii.py": {
+    "problem_id": "0045-jump-game-ii",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0045-jump-game-ii/0045-jump-game-ii.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "ef61df59f139714b199c42fe02292c854948e640",
+    "sha256": "2438694144993ed6d7af342a7672ea4f87cf15e7211581bb01e792583a489946",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0045-jump-game-ii/0045-jump-game-ii.py"
+  },
+  "solutions/heap-priority-queue/0215-kth-largest-element-in-an-array/leetcode/0215-kth-largest-element-in-an-array.py": {
+    "problem_id": "0215-kth-largest-element-in-an-array",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "600bd3b3819084c7e27124d2c51198164e65f2b6",
+    "sha256": "456be68eb0c3cf69feda977d5d7533faa425261e6b22275817beb66e87c3c6ef",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0215-kth-largest-element-in-an-array/0215-kth-largest-element-in-an-array.py"
+  },
+  "solutions/heap-priority-queue/0295-find-median-from-data-stream/leetcode/0295-find-median-from-data-stream.py": {
+    "problem_id": "0295-find-median-from-data-stream",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0295-find-median-from-data-stream/0295-find-median-from-data-stream.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "78ae0c7dcb67d0848ce2a77665b49b713f364a19",
+    "sha256": "41c175ebabbca6903472a68c949d11cb140f7520bebf99742462426887c8cde1",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0295-find-median-from-data-stream/0295-find-median-from-data-stream.py"
+  },
+  "solutions/heap-priority-queue/0703-kth-largest-element-in-a-stream/leetcode/0703-kth-largest-element-in-a-stream.py": {
+    "problem_id": "0703-kth-largest-element-in-a-stream",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0703-kth-largest-element-in-a-stream/0703-kth-largest-element-in-a-stream.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "990b119e3dc4dcfa7d22aca62f2fa6b8a8bde94a",
+    "sha256": "b31f8adecfe89eb84f050db21ef274487efe466a3ddc2c5107a7ea9bc8b46833",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0703-kth-largest-element-in-a-stream/0703-kth-largest-element-in-a-stream.py"
+  },
+  "solutions/linked-list/0002-add-two-numbers/leetcode/0002-add-two-numbers.py": {
+    "problem_id": "0002-add-two-numbers",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0002-add-two-numbers/0002-add-two-numbers.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "1956904c373978f3dc602eb01cb21ad6b0095539",
+    "sha256": "97875ea29e45228b19ed2e113b217c541c3f168e48b7b20d6f14a5aa754dff3b",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0002-add-two-numbers/0002-add-two-numbers.py"
+  },
+  "solutions/linked-list/0019-remove-nth-node-from-end-of-list/leetcode/0019-remove-nth-node-from-end-of-list.py": {
+    "problem_id": "0019-remove-nth-node-from-end-of-list",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "072bb973209593f05d138fbb8c7046d1a541faa5",
+    "sha256": "456134281a4ab2bf7b3e6014252bacf355b9cdeb0fb0930c8f923a6480957906",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0019-remove-nth-node-from-end-of-list/0019-remove-nth-node-from-end-of-list.py"
+  },
+  "solutions/linked-list/0021-merge-two-sorted-lists/leetcode/0021-merge-two-sorted-lists.py": {
+    "problem_id": "0021-merge-two-sorted-lists",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "685cd9c52f5df78095cae29417555acb773edb14",
+    "sha256": "48d797ab7cd3acd25681238a5cae5f731bb3e0b71fe31b2c84bef097f9c238b8",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.py"
+  },
+  "solutions/linked-list/0023-merge-k-sorted-lists/leetcode/0023-merge-k-sorted-lists.py": {
+    "problem_id": "0023-merge-k-sorted-lists",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "755606cb7e4aba8788e17c97dc7678d1e58cd600",
+    "sha256": "8dc7a597436215db12addd466d6ab70004ad30d3fabb1df77973569316e47e0d",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.py"
+  },
+  "solutions/linked-list/0025-reverse-nodes-in-k-group/leetcode/0025-reverse-nodes-in-k-group.py": {
+    "problem_id": "0025-reverse-nodes-in-k-group",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "bc02a716d515d5a3ee6ad31b91e23bd05bff6c53",
+    "sha256": "725690b7d6530ecc498a2455a9ca888ac99674ba99c07e8956370a24fbfe3501",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0025-reverse-nodes-in-k-group/0025-reverse-nodes-in-k-group.py"
+  },
+  "solutions/linked-list/0141-linked-list-cycle/leetcode/0141-linked-list-cycle.py": {
+    "problem_id": "0141-linked-list-cycle",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0141-linked-list-cycle/0141-linked-list-cycle.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "e7ddf7cc58fb70ee1ac946a01f46259245e1193d",
+    "sha256": "2951915e9579d6d2042f1d39e506983b8a222771cf0387c7c8443b9c637ad179",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0141-linked-list-cycle/0141-linked-list-cycle.py"
+  },
+  "solutions/linked-list/0146-lru-cache/leetcode/0146-lru-cache.py": {
+    "problem_id": "0146-lru-cache",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0146-lru-cache/0146-lru-cache.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "95f2d29c2dcfc451b3bf92dab5234bf67b6e80ad",
+    "sha256": "9a9d7f782e4a7be9c30a309af2097a1f0e11a75f1fe1e1e55e2dc56618866602",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0146-lru-cache/0146-lru-cache.py"
+  },
+  "solutions/math-geometry/0043-multiply-strings/leetcode/0043-multiply-strings.py": {
+    "problem_id": "0043-multiply-strings",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0043-multiply-strings/0043-multiply-strings.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "902cfd9ee7639b5d055762b48e370973aabe45ca",
+    "sha256": "32777193210f441530078575b1552c4da4df21978a8f06e8808a282a8d64c174",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0043-multiply-strings/0043-multiply-strings.py"
+  },
+  "solutions/math-geometry/0048-rotate-image/leetcode/0048-rotate-image.py": {
+    "problem_id": "0048-rotate-image",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0048-rotate-image/0048-rotate-image.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "687283fbdf52f2c5fd99c8cd7ab4a161aa451ee1",
+    "sha256": "52d8652c887d7075176d31606043da113716260fe03f87cd1b966a3ca3a14d9b",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0048-rotate-image/0048-rotate-image.py"
+  },
+  "solutions/math-geometry/0050-powx-n/leetcode/0050-powx-n.py": {
+    "problem_id": "0050-powx-n",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0050-powx-n/0050-powx-n.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "7471f85727b124420336807fdb04a8678d1965c2",
+    "sha256": "8e5d119ac727f589a91ea3f587834bd43acf49e4f537fff4a28e849c863a89a3",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0050-powx-n/0050-powx-n.py"
+  },
+  "solutions/sliding-window/0003-longest-substring-without-repeating-characters/leetcode/0003-longest-substring-without-repeating-characters.py": {
+    "problem_id": "0003-longest-substring-without-repeating-characters",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "0844235247076f495ff7d9e3eca49c2edc54aebc",
+    "sha256": "4c18470ed498751f36c4806abb49c60fc3e65ec5ae8b3234e163bc73aab61210",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.py"
+  },
+  "solutions/sliding-window/0076-minimum-window-substring/leetcode/0076-minimum-window-substring.py": {
+    "problem_id": "0076-minimum-window-substring",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0076-minimum-window-substring/0076-minimum-window-substring.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "5388864f2f7207f16ef3e680472ec2bcfb02f889",
+    "sha256": "17733370ba8a411c9922434609d07c910831c751cc26d13638dcef59427bcdc4",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0076-minimum-window-substring/0076-minimum-window-substring.py"
+  },
+  "solutions/sliding-window/0239-sliding-window-maximum/leetcode/0239-sliding-window-maximum.py": {
+    "problem_id": "0239-sliding-window-maximum",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0239-sliding-window-maximum/0239-sliding-window-maximum.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "8225e243fb72261e53938391506dc26b4709f5c5",
+    "sha256": "472d1c9d1e41f52b4a3668e2238e793f34445f15adb51e47c08b02fb907ca67e",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0239-sliding-window-maximum/0239-sliding-window-maximum.py"
+  },
+  "solutions/stack/0020-valid-parentheses/leetcode/0020-valid-parentheses.py": {
+    "problem_id": "0020-valid-parentheses",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0020-valid-parentheses/0020-valid-parentheses.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "41958db17d9e7e8d94bc812f36c022955059379a",
+    "sha256": "bbd5a39169e1bf2fc4e5e86e086ef290c4563ae7bbbfd81cfdfec80655d86ce8",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0020-valid-parentheses/0020-valid-parentheses.py"
+  },
+  "solutions/stack/0150-evaluate-reverse-polish-notation/leetcode/0150-evaluate-reverse-polish-notation.py": {
+    "problem_id": "0150-evaluate-reverse-polish-notation",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "c738dbcd1656df5138f1141e29b2090dc0a62d18",
+    "sha256": "40afb7401e28aebe3aed8b81f5f9d740580f417e026e90541c4783eefd2b535c",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.py"
+  },
+  "solutions/stack/0739-daily-temperatures/leetcode/0739-daily-temperatures.py": {
+    "problem_id": "0739-daily-temperatures",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0739-daily-temperatures/0739-daily-temperatures.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "862bcbf17c50c3d1c75cfc9bd9877f7a4c199035",
+    "sha256": "c2b31e7439151842f551c74f12a269f3cb1a5311c7b96c898c5a6f51c20d087b",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0739-daily-temperatures/0739-daily-temperatures.py"
+  },
+  "solutions/trees/0098-validate-binary-search-tree/leetcode/0098-validate-binary-search-tree.py": {
+    "problem_id": "0098-validate-binary-search-tree",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0098-validate-binary-search-tree/0098-validate-binary-search-tree.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "c7c0656ce693f440543c268e35a24d6323ded152",
+    "sha256": "dda8f0f672841e4e78cf7bc61fef26c2b01dff871af377d113c70524f8a1ea5a",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0098-validate-binary-search-tree/0098-validate-binary-search-tree.py"
+  },
+  "solutions/trees/0102-binary-tree-level-order-traversal/leetcode/0102-binary-tree-level-order-traversal.py": {
+    "problem_id": "0102-binary-tree-level-order-traversal",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "1c40c745ba2689485cc318edb871be108ec75955",
+    "sha256": "f8a109d8d02e6c43e61fdd2433ab1d72406f04276af4c697cd8e6d0445debe1f",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.py"
+  },
+  "solutions/trees/0104-maximum-depth-of-binary-tree/leetcode/0104-maximum-depth-of-binary-tree.py": {
+    "problem_id": "0104-maximum-depth-of-binary-tree",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "e7cdfbf8286a3b51a9f1e977b21cf7105b1f6df9",
+    "sha256": "17f0a30f6b28bb47e07759eb52b8b5e17a7afdc6c1bbd485b666f9d48819e828",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.py"
+  },
+  "solutions/trees/0543-diameter-of-binary-tree/leetcode/0543-diameter-of-binary-tree.py": {
+    "problem_id": "0543-diameter-of-binary-tree",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0543-diameter-of-binary-tree/0543-diameter-of-binary-tree.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "d5010b5ff6032e972d5be821bba9691030539b96",
+    "sha256": "c3672130261434a2aea01138d0c1ae7a532e9d301cf553dd50bbe1c3d86ce471",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0543-diameter-of-binary-tree/0543-diameter-of-binary-tree.py"
+  },
+  "solutions/two-pointers/0011-container-with-most-water/leetcode/0011-container-with-most-water.py": {
+    "problem_id": "0011-container-with-most-water",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0011-container-with-most-water/0011-container-with-most-water.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "3c0ca8ede8143ff864178013ff59cb615e414614",
+    "sha256": "54f279f151100d46077d60576de8e7a895ca5a0ceb8c755471b86f0869442e6b",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0011-container-with-most-water/0011-container-with-most-water.py"
+  },
+  "solutions/two-pointers/0015-3sum/leetcode/0015-3sum.py": {
+    "problem_id": "0015-3sum",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0015-3sum/0015-3sum.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "bad1f29d44c5b587686894ad4f4d4c29cb4eb623",
+    "sha256": "871354124adf34bded39aef6a64b704718ee791c478274858b083569f4766a40",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0015-3sum/0015-3sum.py"
+  },
+  "solutions/two-pointers/0167-two-sum-ii-input-array-is-sorted/leetcode/0167-two-sum-ii-input-array-is-sorted.py": {
+    "problem_id": "0167-two-sum-ii-input-array-is-sorted",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.py",
+    "source_commit": "62a7604ded5e0503d3eeae1c7d4515c220a974b9",
+    "source_blob": "d810c7b508217a10fbfe00611d5c5885c93302f1",
+    "sha256": "99bb9aa1ae84cfe4c56cdc0ae6c7c1477c3d03b2c60db36ff6925d603729a312",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0167-two-sum-ii-input-array-is-sorted/0167-two-sum-ii-input-array-is-sorted.py"
+  }
+}
