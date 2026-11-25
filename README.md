@@ -1,6 +1,6 @@
 # NeetCode 150
 
-**50/150 problems archived**
+**52/150 problems archived**
 
 My solutions from LeetCode and NeetCode, restricted to the NeetCode 150 list. A problem counts once even when solved on both sites. A checkbox is checked only when actual solution code has been imported.
 
@@ -16,12 +16,12 @@ My solutions from LeetCode and NeetCode, restricted to the NeetCode 150 list. A 
 
 | Topic | Archived |
 |---|---:|
-| Arrays & Hashing | 7/9 |
+| Arrays & Hashing | 8/9 |
 | Two Pointers | 3/5 |
 | Sliding Window | 3/6 |
 | Stack | 3/6 |
 | Binary Search | 2/7 |
-| Linked List | 7/11 |
+| Linked List | 8/11 |
 | Trees | 4/15 |
 | Heap / Priority Queue | 3/7 |
 | Backtracking | 8/10 |
@@ -42,7 +42,7 @@ My solutions from LeetCode and NeetCode, restricted to the NeetCode 150 list. A 
 - [x] [Two Sum](solutions/arrays-hashing/0001-two-sum/) · Easy · [NC](https://neetcode.io/problems/two-integer-sum) · [LC](https://leetcode.com/problems/two-sum/)
 - [x] [Group Anagrams](solutions/arrays-hashing/0049-group-anagrams/) · Medium · [NC](https://neetcode.io/problems/anagram-groups) · [LC](https://leetcode.com/problems/group-anagrams/)
 - [x] [Top K Frequent Elements](solutions/arrays-hashing/0347-top-k-frequent-elements/) · Medium · [NC](https://neetcode.io/problems/top-k-elements-in-list) · [LC](https://leetcode.com/problems/top-k-frequent-elements/)
-- [ ] Encode and Decode Strings · Medium · [NC](https://neetcode.io/problems/string-encode-and-decode) · [LC](https://leetcode.com/problems/encode-and-decode-strings/)
+- [x] [Encode and Decode Strings](solutions/arrays-hashing/0271-encode-and-decode-strings/) · Medium · [NC](https://neetcode.io/problems/string-encode-and-decode) · [LC](https://leetcode.com/problems/encode-and-decode-strings/)
 - [ ] Product of Array Except Self · Medium · [NC](https://neetcode.io/problems/products-of-array-discluding-self) · [LC](https://leetcode.com/problems/product-of-array-except-self/)
 - [x] [Valid Sudoku](solutions/arrays-hashing/0036-valid-sudoku/) · Medium · [NC](https://neetcode.io/problems/valid-sudoku) · [LC](https://leetcode.com/problems/valid-sudoku/)
 - [x] [Longest Consecutive Sequence](solutions/arrays-hashing/0128-longest-consecutive-sequence/) · Medium · [NC](https://neetcode.io/problems/longest-consecutive-sequence) · [LC](https://leetcode.com/problems/longest-consecutive-sequence/)
@@ -85,7 +85,7 @@ My solutions from LeetCode and NeetCode, restricted to the NeetCode 150 list. A 
 
 ## Linked List
 
-- [ ] Reverse Linked List · Easy · [NC](https://neetcode.io/problems/reverse-a-linked-list) · [LC](https://leetcode.com/problems/reverse-linked-list/)
+- [x] [Reverse Linked List](solutions/linked-list/0206-reverse-linked-list/) · Easy · [NC](https://neetcode.io/problems/reverse-a-linked-list) · [LC](https://leetcode.com/problems/reverse-linked-list/)
 - [x] [Merge Two Sorted Lists](solutions/linked-list/0021-merge-two-sorted-lists/) · Easy · [NC](https://neetcode.io/problems/merge-two-sorted-linked-lists) · [LC](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [x] [Linked List Cycle](solutions/linked-list/0141-linked-list-cycle/) · Easy · [NC](https://neetcode.io/problems/linked-list-cycle-detection) · [LC](https://leetcode.com/problems/linked-list-cycle/)
 - [ ] Reorder List · Medium · [NC](https://neetcode.io/problems/reorder-linked-list) · [LC](https://leetcode.com/problems/reorder-list/)

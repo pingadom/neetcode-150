@@ -109,6 +109,36 @@
     "sha256": "6fac3513c72c8b60d05beb5892abd494fea572ed0c0b390253503d8c237a72ce",
     "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0242-valid-anagram/0242-valid-anagram.py"
   },
+  "solutions/arrays-hashing/0271-encode-and-decode-strings/neetcode/submission-3.py": {
+    "problem_id": "0271-encode-and-decode-strings",
+    "platform": "neetcode",
+    "source_repository": "pingadom/neetcode-submissions",
+    "source_path": "Data Structures & Algorithms/string-encode-and-decode/submission-3.py",
+    "source_commit": "f99af448349b130351c3a232e460f5805df6227e",
+    "source_blob": "eb8d4cecb6e88af9c1882a44140b8602f176831e",
+    "sha256": "de34711bfc2f547a3676f34e1bf48e3da7e179613a798737dcffdb05bb5ef8d2",
+    "source_url": "https://github.com/pingadom/neetcode-submissions/blob/f99af448349b130351c3a232e460f5805df6227e/Data%20Structures%20%26%20Algorithms/string-encode-and-decode/submission-3.py"
+  },
+  "solutions/arrays-hashing/0271-encode-and-decode-strings/neetcode/submission-4.py": {
+    "problem_id": "0271-encode-and-decode-strings",
+    "platform": "neetcode",
+    "source_repository": "pingadom/neetcode-submissions",
+    "source_path": "Data Structures & Algorithms/string-encode-and-decode/submission-4.py",
+    "source_commit": "f99af448349b130351c3a232e460f5805df6227e",
+    "source_blob": "eb8d4cecb6e88af9c1882a44140b8602f176831e",
+    "sha256": "de34711bfc2f547a3676f34e1bf48e3da7e179613a798737dcffdb05bb5ef8d2",
+    "source_url": "https://github.com/pingadom/neetcode-submissions/blob/f99af448349b130351c3a232e460f5805df6227e/Data%20Structures%20%26%20Algorithms/string-encode-and-decode/submission-4.py"
+  },
+  "solutions/arrays-hashing/0271-encode-and-decode-strings/neetcode/submission-5.py": {
+    "problem_id": "0271-encode-and-decode-strings",
+    "platform": "neetcode",
+    "source_repository": "pingadom/neetcode-submissions",
+    "source_path": "Data Structures & Algorithms/string-encode-and-decode/submission-5.py",
+    "source_commit": "f99af448349b130351c3a232e460f5805df6227e",
+    "source_blob": "eb8d4cecb6e88af9c1882a44140b8602f176831e",
+    "sha256": "de34711bfc2f547a3676f34e1bf48e3da7e179613a798737dcffdb05bb5ef8d2",
+    "source_url": "https://github.com/pingadom/neetcode-submissions/blob/f99af448349b130351c3a232e460f5805df6227e/Data%20Structures%20%26%20Algorithms/string-encode-and-decode/submission-5.py"
+  },
   "solutions/arrays-hashing/0347-top-k-frequent-elements/leetcode/0347-top-k-frequent-elements.py": {
     "problem_id": "0347-top-k-frequent-elements",
     "platform": "leetcode",
@@ -338,6 +368,16 @@
     "source_blob": "95f2d29c2dcfc451b3bf92dab5234bf67b6e80ad",
     "sha256": "9a9d7f782e4a7be9c30a309af2097a1f0e11a75f1fe1e1e55e2dc56618866602",
     "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0146-lru-cache/0146-lru-cache.py"
+  },
+  "solutions/linked-list/0206-reverse-linked-list/leetcode/0206-reverse-linked-list.py": {
+    "problem_id": "0206-reverse-linked-list",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0206-reverse-linked-list/0206-reverse-linked-list.py",
+    "source_commit": "7468d5ff451e26e47b65b35759ed0d29e8585639",
+    "source_blob": "91fc44e3837a702132cf9faa2d28acbfb21225a9",
+    "sha256": "c18018e0db92105c3c71d22265d1c2659aa6685ab71bc12ba316cf17c55785c3",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/7468d5ff451e26e47b65b35759ed0d29e8585639/0206-reverse-linked-list/0206-reverse-linked-list.py"
   },
   "solutions/math-geometry/0043-multiply-strings/leetcode/0043-multiply-strings.py": {
     "problem_id": "0043-multiply-strings",

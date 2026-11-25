@@ -1,9 +1,9 @@
 {
-  "completed": 50,
+  "completed": 52,
   "total": 150,
   "topics": {
     "Arrays & Hashing": {
-      "completed": 7,
+      "completed": 8,
       "total": 9
     },
     "Two Pointers": {
@@ -23,7 +23,7 @@
       "total": 7
     },
     "Linked List": {
-      "completed": 7,
+      "completed": 8,
       "total": 11
     },
     "Trees": {
@@ -128,8 +128,21 @@
     },
     {
       "id": "0271-encode-and-decode-strings",
-      "completed": false,
-      "solutions": []
+      "completed": true,
+      "solutions": [
+        {
+          "path": "solutions/arrays-hashing/0271-encode-and-decode-strings/neetcode/submission-3.py",
+          "platform": "neetcode"
+        },
+        {
+          "path": "solutions/arrays-hashing/0271-encode-and-decode-strings/neetcode/submission-4.py",
+          "platform": "neetcode"
+        },
+        {
+          "path": "solutions/arrays-hashing/0271-encode-and-decode-strings/neetcode/submission-5.py",
+          "platform": "neetcode"
+        }
+      ]
     },
     {
       "id": "0238-product-of-array-except-self",
@@ -333,8 +346,13 @@
     },
     {
       "id": "0206-reverse-linked-list",
-      "completed": false,
-      "solutions": []
+      "completed": true,
+      "solutions": [
+        {
+          "path": "solutions/linked-list/0206-reverse-linked-list/leetcode/0206-reverse-linked-list.py",
+          "platform": "leetcode"
+        }
+      ]
     },
     {
       "id": "0021-merge-two-sorted-lists",
