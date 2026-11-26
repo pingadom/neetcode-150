@@ -1,9 +1,9 @@
 {
-  "completed": 52,
+  "completed": 54,
   "total": 150,
   "topics": {
     "Arrays & Hashing": {
-      "completed": 8,
+      "completed": 9,
       "total": 9
     },
     "Two Pointers": {
@@ -15,7 +15,7 @@
       "total": 6
     },
     "Stack": {
-      "completed": 3,
+      "completed": 4,
       "total": 6
     },
     "Binary Search": {
@@ -146,8 +146,13 @@
     },
     {
       "id": "0238-product-of-array-except-self",
-      "completed": false,
-      "solutions": []
+      "completed": true,
+      "solutions": [
+        {
+          "path": "solutions/arrays-hashing/0238-product-of-array-except-self/leetcode/0238-product-of-array-except-self.py",
+          "platform": "leetcode"
+        }
+      ]
     },
     {
       "id": "0036-valid-sudoku",
@@ -266,8 +271,13 @@
     },
     {
       "id": "0155-min-stack",
-      "completed": false,
-      "solutions": []
+      "completed": true,
+      "solutions": [
+        {
+          "path": "solutions/stack/0155-min-stack/leetcode/0155-min-stack.py",
+          "platform": "leetcode"
+        }
+      ]
     },
     {
       "id": "0150-evaluate-reverse-polish-notation",

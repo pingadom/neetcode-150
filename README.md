@@ -1,6 +1,6 @@
 # NeetCode 150
 
-**52/150 problems archived**
+**54/150 problems archived**
 
 My solutions from LeetCode and NeetCode, restricted to the NeetCode 150 list. A problem counts once even when solved on both sites. A checkbox is checked only when actual solution code has been imported.
 
@@ -16,10 +16,10 @@ My solutions from LeetCode and NeetCode, restricted to the NeetCode 150 list. A 
 
 | Topic | Archived |
 |---|---:|
-| Arrays & Hashing | 8/9 |
+| Arrays & Hashing | 9/9 |
 | Two Pointers | 3/5 |
 | Sliding Window | 3/6 |
-| Stack | 3/6 |
+| Stack | 4/6 |
 | Binary Search | 2/7 |
 | Linked List | 8/11 |
 | Trees | 4/15 |
@@ -43,7 +43,7 @@ My solutions from LeetCode and NeetCode, restricted to the NeetCode 150 list. A 
 - [x] [Group Anagrams](solutions/arrays-hashing/0049-group-anagrams/) · Medium · [NC](https://neetcode.io/problems/anagram-groups) · [LC](https://leetcode.com/problems/group-anagrams/)
 - [x] [Top K Frequent Elements](solutions/arrays-hashing/0347-top-k-frequent-elements/) · Medium · [NC](https://neetcode.io/problems/top-k-elements-in-list) · [LC](https://leetcode.com/problems/top-k-frequent-elements/)
 - [x] [Encode and Decode Strings](solutions/arrays-hashing/0271-encode-and-decode-strings/) · Medium · [NC](https://neetcode.io/problems/string-encode-and-decode) · [LC](https://leetcode.com/problems/encode-and-decode-strings/)
-- [ ] Product of Array Except Self · Medium · [NC](https://neetcode.io/problems/products-of-array-discluding-self) · [LC](https://leetcode.com/problems/product-of-array-except-self/)
+- [x] [Product of Array Except Self](solutions/arrays-hashing/0238-product-of-array-except-self/) · Medium · [NC](https://neetcode.io/problems/products-of-array-discluding-self) · [LC](https://leetcode.com/problems/product-of-array-except-self/)
 - [x] [Valid Sudoku](solutions/arrays-hashing/0036-valid-sudoku/) · Medium · [NC](https://neetcode.io/problems/valid-sudoku) · [LC](https://leetcode.com/problems/valid-sudoku/)
 - [x] [Longest Consecutive Sequence](solutions/arrays-hashing/0128-longest-consecutive-sequence/) · Medium · [NC](https://neetcode.io/problems/longest-consecutive-sequence) · [LC](https://leetcode.com/problems/longest-consecutive-sequence/)
 
@@ -67,7 +67,7 @@ My solutions from LeetCode and NeetCode, restricted to the NeetCode 150 list. A 
 ## Stack
 
 - [x] [Valid Parentheses](solutions/stack/0020-valid-parentheses/) · Easy · [NC](https://neetcode.io/problems/validate-parentheses) · [LC](https://leetcode.com/problems/valid-parentheses/)
-- [ ] Min Stack · Medium · [NC](https://neetcode.io/problems/minimum-stack) · [LC](https://leetcode.com/problems/min-stack/)
+- [x] [Min Stack](solutions/stack/0155-min-stack/) · Medium · [NC](https://neetcode.io/problems/minimum-stack) · [LC](https://leetcode.com/problems/min-stack/)
 - [x] [Evaluate Reverse Polish Notation](solutions/stack/0150-evaluate-reverse-polish-notation/) · Medium · [NC](https://neetcode.io/problems/evaluate-reverse-polish-notation) · [LC](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 - [x] [Daily Temperatures](solutions/stack/0739-daily-temperatures/) · Medium · [NC](https://neetcode.io/problems/daily-temperatures) · [LC](https://leetcode.com/problems/daily-temperatures/)
 - [ ] Car Fleet · Medium · [NC](https://neetcode.io/problems/car-fleet) · [LC](https://leetcode.com/problems/car-fleet/)

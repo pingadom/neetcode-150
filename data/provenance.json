@@ -99,6 +99,16 @@
     "sha256": "4d08450d22728715a6036be5980f3a1668f76767c67d5ff9ff619560ea143121",
     "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0217-contains-duplicate/0217-contains-duplicate.py"
   },
+  "solutions/arrays-hashing/0238-product-of-array-except-self/leetcode/0238-product-of-array-except-self.py": {
+    "problem_id": "0238-product-of-array-except-self",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0238-product-of-array-except-self/0238-product-of-array-except-self.py",
+    "source_commit": "7bba7eb8063cd09143856bc3e90647743cc1289a",
+    "source_blob": "7ac626ab51143a6491a30f04e09b44a4cc41b7a4",
+    "sha256": "59a92eae522c22fa0c23c2aeffef98847d5fca8e6961de87588351c61a5f10f3",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/7bba7eb8063cd09143856bc3e90647743cc1289a/0238-product-of-array-except-self/0238-product-of-array-except-self.py"
+  },
   "solutions/arrays-hashing/0242-valid-anagram/leetcode/0242-valid-anagram.py": {
     "problem_id": "0242-valid-anagram",
     "platform": "leetcode",
@@ -458,6 +468,16 @@
     "source_blob": "c738dbcd1656df5138f1141e29b2090dc0a62d18",
     "sha256": "40afb7401e28aebe3aed8b81f5f9d740580f417e026e90541c4783eefd2b535c",
     "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.py"
+  },
+  "solutions/stack/0155-min-stack/leetcode/0155-min-stack.py": {
+    "problem_id": "0155-min-stack",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0155-min-stack/0155-min-stack.py",
+    "source_commit": "7bba7eb8063cd09143856bc3e90647743cc1289a",
+    "source_blob": "7346902f8019e8ff5d470cfbd0a19c278a99e127",
+    "sha256": "290e9ae4a5a58967b5b3bd21cee5267630ed95078b90713e8d48e105e25a27f3",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/7bba7eb8063cd09143856bc3e90647743cc1289a/0155-min-stack/0155-min-stack.py"
   },
   "solutions/stack/0739-daily-temperatures/leetcode/0739-daily-temperatures.py": {
     "problem_id": "0739-daily-temperatures",
