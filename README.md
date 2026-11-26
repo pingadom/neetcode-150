@@ -1,6 +1,6 @@
 # NeetCode 150
 
-**54/150 problems archived**
+**64/150 problems archived**
 
 My solutions from LeetCode and NeetCode, restricted to the NeetCode 150 list. A problem counts once even when solved on both sites. A checkbox is checked only when actual solution code has been imported.
 
@@ -17,10 +17,10 @@ My solutions from LeetCode and NeetCode, restricted to the NeetCode 150 list. A 
 | Topic | Archived |
 |---|---:|
 | Arrays & Hashing | 9/9 |
-| Two Pointers | 3/5 |
-| Sliding Window | 3/6 |
-| Stack | 4/6 |
-| Binary Search | 2/7 |
+| Two Pointers | 4/5 |
+| Sliding Window | 6/6 |
+| Stack | 6/6 |
+| Binary Search | 6/7 |
 | Linked List | 8/11 |
 | Trees | 4/15 |
 | Heap / Priority Queue | 3/7 |
@@ -53,14 +53,14 @@ My solutions from LeetCode and NeetCode, restricted to the NeetCode 150 list. A 
 - [x] [Two Sum II Input Array Is Sorted](solutions/two-pointers/0167-two-sum-ii-input-array-is-sorted/) · Medium · [NC](https://neetcode.io/problems/two-integer-sum-ii) · [LC](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [x] [3Sum](solutions/two-pointers/0015-3sum/) · Medium · [NC](https://neetcode.io/problems/three-integer-sum) · [LC](https://leetcode.com/problems/3sum/)
 - [x] [Container With Most Water](solutions/two-pointers/0011-container-with-most-water/) · Medium · [NC](https://neetcode.io/problems/max-water-container) · [LC](https://leetcode.com/problems/container-with-most-water/)
-- [ ] Trapping Rain Water · Hard · [NC](https://neetcode.io/problems/trapping-rain-water) · [LC](https://leetcode.com/problems/trapping-rain-water/)
+- [x] [Trapping Rain Water](solutions/two-pointers/0042-trapping-rain-water/) · Hard · [NC](https://neetcode.io/problems/trapping-rain-water) · [LC](https://leetcode.com/problems/trapping-rain-water/)
 
 ## Sliding Window
 
-- [ ] Best Time to Buy And Sell Stock · Easy · [NC](https://neetcode.io/problems/buy-and-sell-crypto) · [LC](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [x] [Best Time to Buy And Sell Stock](solutions/sliding-window/0121-best-time-to-buy-and-sell-stock/) · Easy · [NC](https://neetcode.io/problems/buy-and-sell-crypto) · [LC](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x] [Longest Substring Without Repeating Characters](solutions/sliding-window/0003-longest-substring-without-repeating-characters/) · Medium · [NC](https://neetcode.io/problems/longest-substring-without-duplicates) · [LC](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [ ] Longest Repeating Character Replacement · Medium · [NC](https://neetcode.io/problems/longest-repeating-substring-with-replacement) · [LC](https://leetcode.com/problems/longest-repeating-character-replacement/)
-- [ ] Permutation In String · Medium · [NC](https://neetcode.io/problems/permutation-string) · [LC](https://leetcode.com/problems/permutation-in-string/)
+- [x] [Longest Repeating Character Replacement](solutions/sliding-window/0424-longest-repeating-character-replacement/) · Medium · [NC](https://neetcode.io/problems/longest-repeating-substring-with-replacement) · [LC](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [x] [Permutation In String](solutions/sliding-window/0567-permutation-in-string/) · Medium · [NC](https://neetcode.io/problems/permutation-string) · [LC](https://leetcode.com/problems/permutation-in-string/)
 - [x] [Minimum Window Substring](solutions/sliding-window/0076-minimum-window-substring/) · Hard · [NC](https://neetcode.io/problems/minimum-window-with-characters) · [LC](https://leetcode.com/problems/minimum-window-substring/)
 - [x] [Sliding Window Maximum](solutions/sliding-window/0239-sliding-window-maximum/) · Hard · [NC](https://neetcode.io/problems/sliding-window-maximum) · [LC](https://leetcode.com/problems/sliding-window-maximum/)
 
@@ -70,17 +70,17 @@ My solutions from LeetCode and NeetCode, restricted to the NeetCode 150 list. A 
 - [x] [Min Stack](solutions/stack/0155-min-stack/) · Medium · [NC](https://neetcode.io/problems/minimum-stack) · [LC](https://leetcode.com/problems/min-stack/)
 - [x] [Evaluate Reverse Polish Notation](solutions/stack/0150-evaluate-reverse-polish-notation/) · Medium · [NC](https://neetcode.io/problems/evaluate-reverse-polish-notation) · [LC](https://leetcode.com/problems/evaluate-reverse-polish-notation/)
 - [x] [Daily Temperatures](solutions/stack/0739-daily-temperatures/) · Medium · [NC](https://neetcode.io/problems/daily-temperatures) · [LC](https://leetcode.com/problems/daily-temperatures/)
-- [ ] Car Fleet · Medium · [NC](https://neetcode.io/problems/car-fleet) · [LC](https://leetcode.com/problems/car-fleet/)
-- [ ] Largest Rectangle In Histogram · Hard · [NC](https://neetcode.io/problems/largest-rectangle-in-histogram) · [LC](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+- [x] [Car Fleet](solutions/stack/0853-car-fleet/) · Medium · [NC](https://neetcode.io/problems/car-fleet) · [LC](https://leetcode.com/problems/car-fleet/)
+- [x] [Largest Rectangle In Histogram](solutions/stack/0084-largest-rectangle-in-histogram/) · Hard · [NC](https://neetcode.io/problems/largest-rectangle-in-histogram) · [LC](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 
 ## Binary Search
 
-- [ ] Binary Search · Easy · [NC](https://neetcode.io/problems/binary-search) · [LC](https://leetcode.com/problems/binary-search/)
-- [ ] Search a 2D Matrix · Medium · [NC](https://neetcode.io/problems/search-2d-matrix) · [LC](https://leetcode.com/problems/search-a-2d-matrix/)
+- [x] [Binary Search](solutions/binary-search/0704-binary-search/) · Easy · [NC](https://neetcode.io/problems/binary-search) · [LC](https://leetcode.com/problems/binary-search/)
+- [x] [Search a 2D Matrix](solutions/binary-search/0074-search-a-2d-matrix/) · Medium · [NC](https://neetcode.io/problems/search-2d-matrix) · [LC](https://leetcode.com/problems/search-a-2d-matrix/)
 - [ ] Koko Eating Bananas · Medium · [NC](https://neetcode.io/problems/eating-bananas) · [LC](https://leetcode.com/problems/koko-eating-bananas/)
-- [ ] Find Minimum In Rotated Sorted Array · Medium · [NC](https://neetcode.io/problems/find-minimum-in-rotated-sorted-array) · [LC](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [x] [Find Minimum In Rotated Sorted Array](solutions/binary-search/0153-find-minimum-in-rotated-sorted-array/) · Medium · [NC](https://neetcode.io/problems/find-minimum-in-rotated-sorted-array) · [LC](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [x] [Search In Rotated Sorted Array](solutions/binary-search/0033-search-in-rotated-sorted-array/) · Medium · [NC](https://neetcode.io/problems/find-target-in-rotated-sorted-array) · [LC](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-- [ ] Time Based Key Value Store · Medium · [NC](https://neetcode.io/problems/time-based-key-value-store) · [LC](https://leetcode.com/problems/time-based-key-value-store/)
+- [x] [Time Based Key Value Store](solutions/binary-search/0981-time-based-key-value-store/) · Medium · [NC](https://neetcode.io/problems/time-based-key-value-store) · [LC](https://leetcode.com/problems/time-based-key-value-store/)
 - [x] [Median of Two Sorted Arrays](solutions/binary-search/0004-median-of-two-sorted-arrays/) · Hard · [NC](https://neetcode.io/problems/median-of-two-sorted-arrays) · [LC](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
 ## Linked List

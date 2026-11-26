@@ -259,6 +259,46 @@
     "sha256": "db13023b4b5b45c77143775cbf51dcdccef902577e90db9f6ab4ed299da49412",
     "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0033-search-in-rotated-sorted-array/0033-search-in-rotated-sorted-array.py"
   },
+  "solutions/binary-search/0074-search-a-2d-matrix/leetcode/0074-search-a-2d-matrix.py": {
+    "problem_id": "0074-search-a-2d-matrix",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0074-search-a-2d-matrix/0074-search-a-2d-matrix.py",
+    "source_commit": "044875b7320fe42b12ceb98d1b54268c0802a36f",
+    "source_blob": "aa7b15271a9d95cb47d834bbab33b9fcfab8e4e8",
+    "sha256": "2e32672d99a491f2af8a34a200258f40e234e0228c1a14db27c34dd7172167d5",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/044875b7320fe42b12ceb98d1b54268c0802a36f/0074-search-a-2d-matrix/0074-search-a-2d-matrix.py"
+  },
+  "solutions/binary-search/0153-find-minimum-in-rotated-sorted-array/leetcode/0153-find-minimum-in-rotated-sorted-array.py": {
+    "problem_id": "0153-find-minimum-in-rotated-sorted-array",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0153-find-minimum-in-rotated-sorted-array/0153-find-minimum-in-rotated-sorted-array.py",
+    "source_commit": "044875b7320fe42b12ceb98d1b54268c0802a36f",
+    "source_blob": "af1ee72532069708dba7f91a5c9e826c57975f04",
+    "sha256": "7801375ca7d279c67054c1058c0156b070f7d10ea7ad13b68f7d72b76a329e72",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/044875b7320fe42b12ceb98d1b54268c0802a36f/0153-find-minimum-in-rotated-sorted-array/0153-find-minimum-in-rotated-sorted-array.py"
+  },
+  "solutions/binary-search/0704-binary-search/leetcode/0704-binary-search.py": {
+    "problem_id": "0704-binary-search",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0704-binary-search/0704-binary-search.py",
+    "source_commit": "044875b7320fe42b12ceb98d1b54268c0802a36f",
+    "source_blob": "20202cc0ad8110b6d79ff294fee4a76e55a3c77c",
+    "sha256": "4986b704a7e527b3979b335d36dbdca719bffbffd013b34d401405d4176e3c40",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/044875b7320fe42b12ceb98d1b54268c0802a36f/0704-binary-search/0704-binary-search.py"
+  },
+  "solutions/binary-search/0981-time-based-key-value-store/leetcode/0981-time-based-key-value-store.py": {
+    "problem_id": "0981-time-based-key-value-store",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0981-time-based-key-value-store/0981-time-based-key-value-store.py",
+    "source_commit": "044875b7320fe42b12ceb98d1b54268c0802a36f",
+    "source_blob": "4828bc265fb6925642ade6f2e349c8548a559bac",
+    "sha256": "bce51c16f53938950993648eb640ef0f4faad880959a529a12bdc0e5b902bc2d",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/044875b7320fe42b12ceb98d1b54268c0802a36f/0981-time-based-key-value-store/0981-time-based-key-value-store.py"
+  },
   "solutions/bit-manipulation/0007-reverse-integer/leetcode/0007-reverse-integer.py": {
     "problem_id": "0007-reverse-integer",
     "platform": "leetcode",
@@ -439,6 +479,16 @@
     "sha256": "17733370ba8a411c9922434609d07c910831c751cc26d13638dcef59427bcdc4",
     "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0076-minimum-window-substring/0076-minimum-window-substring.py"
   },
+  "solutions/sliding-window/0121-best-time-to-buy-and-sell-stock/leetcode/0121-best-time-to-buy-and-sell-stock.py": {
+    "problem_id": "0121-best-time-to-buy-and-sell-stock",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py",
+    "source_commit": "044875b7320fe42b12ceb98d1b54268c0802a36f",
+    "source_blob": "5c6a1d2470575a071cfb2703b879b1dab8371702",
+    "sha256": "66328b524dcfca93d0a7ab9f7c35f30353cd80efccc3eed46d5a974cd211c012",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/044875b7320fe42b12ceb98d1b54268c0802a36f/0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py"
+  },
   "solutions/sliding-window/0239-sliding-window-maximum/leetcode/0239-sliding-window-maximum.py": {
     "problem_id": "0239-sliding-window-maximum",
     "platform": "leetcode",
@@ -449,6 +499,26 @@
     "sha256": "472d1c9d1e41f52b4a3668e2238e793f34445f15adb51e47c08b02fb907ca67e",
     "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0239-sliding-window-maximum/0239-sliding-window-maximum.py"
   },
+  "solutions/sliding-window/0424-longest-repeating-character-replacement/leetcode/0424-longest-repeating-character-replacement.py": {
+    "problem_id": "0424-longest-repeating-character-replacement",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.py",
+    "source_commit": "044875b7320fe42b12ceb98d1b54268c0802a36f",
+    "source_blob": "00e1199720880a9b7b92801954dd6c5c30f7f1b9",
+    "sha256": "1ce9ffbc0275e57243ad1d5c082bc07344934b9f934b5124d3850f13bc6c091f",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/044875b7320fe42b12ceb98d1b54268c0802a36f/0424-longest-repeating-character-replacement/0424-longest-repeating-character-replacement.py"
+  },
+  "solutions/sliding-window/0567-permutation-in-string/leetcode/0567-permutation-in-string.py": {
+    "problem_id": "0567-permutation-in-string",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0567-permutation-in-string/0567-permutation-in-string.py",
+    "source_commit": "044875b7320fe42b12ceb98d1b54268c0802a36f",
+    "source_blob": "908c61782dc21c03b4ed3a8dfd4b0f26023e74ad",
+    "sha256": "8b073e4e9dbf615f73eba595949252e128cbe89346187ce3efe78f5ba1c00497",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/044875b7320fe42b12ceb98d1b54268c0802a36f/0567-permutation-in-string/0567-permutation-in-string.py"
+  },
   "solutions/stack/0020-valid-parentheses/leetcode/0020-valid-parentheses.py": {
     "problem_id": "0020-valid-parentheses",
     "platform": "leetcode",
@@ -458,6 +528,16 @@
     "source_blob": "41958db17d9e7e8d94bc812f36c022955059379a",
     "sha256": "bbd5a39169e1bf2fc4e5e86e086ef290c4563ae7bbbfd81cfdfec80655d86ce8",
     "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0020-valid-parentheses/0020-valid-parentheses.py"
+  },
+  "solutions/stack/0084-largest-rectangle-in-histogram/leetcode/0084-largest-rectangle-in-histogram.py": {
+    "problem_id": "0084-largest-rectangle-in-histogram",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.py",
+    "source_commit": "044875b7320fe42b12ceb98d1b54268c0802a36f",
+    "source_blob": "357f3e820fa787d3da4f51e920966246f9c4b938",
+    "sha256": "3510b1f9238773d438cf8b8dd938e36bd9438798d2fa86f1bd07ed5da50a16c1",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/044875b7320fe42b12ceb98d1b54268c0802a36f/0084-largest-rectangle-in-histogram/0084-largest-rectangle-in-histogram.py"
   },
   "solutions/stack/0150-evaluate-reverse-polish-notation/leetcode/0150-evaluate-reverse-polish-notation.py": {
     "problem_id": "0150-evaluate-reverse-polish-notation",
@@ -488,6 +568,16 @@
     "source_blob": "862bcbf17c50c3d1c75cfc9bd9877f7a4c199035",
     "sha256": "c2b31e7439151842f551c74f12a269f3cb1a5311c7b96c898c5a6f51c20d087b",
     "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0739-daily-temperatures/0739-daily-temperatures.py"
+  },
+  "solutions/stack/0853-car-fleet/leetcode/0853-car-fleet.py": {
+    "problem_id": "0853-car-fleet",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0853-car-fleet/0853-car-fleet.py",
+    "source_commit": "044875b7320fe42b12ceb98d1b54268c0802a36f",
+    "source_blob": "aa40ad7b7aacf3ef8eab13bb8e99a96e9b03702c",
+    "sha256": "84b55a6c7da7874ebc6cbf17422f92fc5b8291f29486b1b986d10ad23fec8809",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/044875b7320fe42b12ceb98d1b54268c0802a36f/0853-car-fleet/0853-car-fleet.py"
   },
   "solutions/trees/0098-validate-binary-search-tree/leetcode/0098-validate-binary-search-tree.py": {
     "problem_id": "0098-validate-binary-search-tree",
@@ -548,6 +638,16 @@
     "source_blob": "bad1f29d44c5b587686894ad4f4d4c29cb4eb623",
     "sha256": "871354124adf34bded39aef6a64b704718ee791c478274858b083569f4766a40",
     "source_url": "https://github.com/pingadom/leetcode-solutions/blob/62a7604ded5e0503d3eeae1c7d4515c220a974b9/0015-3sum/0015-3sum.py"
+  },
+  "solutions/two-pointers/0042-trapping-rain-water/leetcode/0042-trapping-rain-water.py": {
+    "problem_id": "0042-trapping-rain-water",
+    "platform": "leetcode",
+    "source_repository": "pingadom/leetcode-solutions",
+    "source_path": "0042-trapping-rain-water/0042-trapping-rain-water.py",
+    "source_commit": "044875b7320fe42b12ceb98d1b54268c0802a36f",
+    "source_blob": "13770fff570918c974774a78872e744b49f515e3",
+    "sha256": "3eb97815f928b511b433d3667115857136441adea495994867ed31fdeb6dd73d",
+    "source_url": "https://github.com/pingadom/leetcode-solutions/blob/044875b7320fe42b12ceb98d1b54268c0802a36f/0042-trapping-rain-water/0042-trapping-rain-water.py"
   },
   "solutions/two-pointers/0167-two-sum-ii-input-array-is-sorted/leetcode/0167-two-sum-ii-input-array-is-sorted.py": {
     "problem_id": "0167-two-sum-ii-input-array-is-sorted",

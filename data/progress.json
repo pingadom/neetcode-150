@@ -1,5 +1,5 @@
 {
-  "completed": 54,
+  "completed": 64,
   "total": 150,
   "topics": {
     "Arrays & Hashing": {
@@ -7,19 +7,19 @@
       "total": 9
     },
     "Two Pointers": {
-      "completed": 3,
+      "completed": 4,
       "total": 5
     },
     "Sliding Window": {
-      "completed": 3,
+      "completed": 6,
       "total": 6
     },
     "Stack": {
-      "completed": 4,
+      "completed": 6,
       "total": 6
     },
     "Binary Search": {
-      "completed": 2,
+      "completed": 6,
       "total": 7
     },
     "Linked List": {
@@ -211,13 +211,23 @@
     },
     {
       "id": "0042-trapping-rain-water",
-      "completed": false,
-      "solutions": []
+      "completed": true,
+      "solutions": [
+        {
+          "path": "solutions/two-pointers/0042-trapping-rain-water/leetcode/0042-trapping-rain-water.py",
+          "platform": "leetcode"
+        }
+      ]
     },
     {
       "id": "0121-best-time-to-buy-and-sell-stock",
-      "completed": false,
-      "solutions": []
+      "completed": true,
+      "solutions": [
+        {
+          "path": "solutions/sliding-window/0121-best-time-to-buy-and-sell-stock/leetcode/0121-best-time-to-buy-and-sell-stock.py",
+          "platform": "leetcode"
+        }
+      ]
     },
     {
       "id": "0003-longest-substring-without-repeating-characters",
@@ -231,13 +241,23 @@
     },
     {
       "id": "0424-longest-repeating-character-replacement",
-      "completed": false,
-      "solutions": []
+      "completed": true,
+      "solutions": [
+        {
+          "path": "solutions/sliding-window/0424-longest-repeating-character-replacement/leetcode/0424-longest-repeating-character-replacement.py",
+          "platform": "leetcode"
+        }
+      ]
     },
     {
       "id": "0567-permutation-in-string",
-      "completed": false,
-      "solutions": []
+      "completed": true,
+      "solutions": [
+        {
+          "path": "solutions/sliding-window/0567-permutation-in-string/leetcode/0567-permutation-in-string.py",
+          "platform": "leetcode"
+        }
+      ]
     },
     {
       "id": "0076-minimum-window-substring",
@@ -301,23 +321,43 @@
     },
     {
       "id": "0853-car-fleet",
-      "completed": false,
-      "solutions": []
+      "completed": true,
+      "solutions": [
+        {
+          "path": "solutions/stack/0853-car-fleet/leetcode/0853-car-fleet.py",
+          "platform": "leetcode"
+        }
+      ]
     },
     {
       "id": "0084-largest-rectangle-in-histogram",
-      "completed": false,
-      "solutions": []
+      "completed": true,
+      "solutions": [
+        {
+          "path": "solutions/stack/0084-largest-rectangle-in-histogram/leetcode/0084-largest-rectangle-in-histogram.py",
+          "platform": "leetcode"
+        }
+      ]
     },
     {
       "id": "0704-binary-search",
-      "completed": false,
-      "solutions": []
+      "completed": true,
+      "solutions": [
+        {
+          "path": "solutions/binary-search/0704-binary-search/leetcode/0704-binary-search.py",
+          "platform": "leetcode"
+        }
+      ]
     },
     {
       "id": "0074-search-a-2d-matrix",
-      "completed": false,
-      "solutions": []
+      "completed": true,
+      "solutions": [
+        {
+          "path": "solutions/binary-search/0074-search-a-2d-matrix/leetcode/0074-search-a-2d-matrix.py",
+          "platform": "leetcode"
+        }
+      ]
     },
     {
       "id": "0875-koko-eating-bananas",
@@ -326,8 +366,13 @@
     },
     {
       "id": "0153-find-minimum-in-rotated-sorted-array",
-      "completed": false,
-      "solutions": []
+      "completed": true,
+      "solutions": [
+        {
+          "path": "solutions/binary-search/0153-find-minimum-in-rotated-sorted-array/leetcode/0153-find-minimum-in-rotated-sorted-array.py",
+          "platform": "leetcode"
+        }
+      ]
     },
     {
       "id": "0033-search-in-rotated-sorted-array",
@@ -341,8 +386,13 @@
     },
     {
       "id": "0981-time-based-key-value-store",
-      "completed": false,
-      "solutions": []
+      "completed": true,
+      "solutions": [
+        {
+          "path": "solutions/binary-search/0981-time-based-key-value-store/leetcode/0981-time-based-key-value-store.py",
+          "platform": "leetcode"
+        }
+      ]
     },
     {
       "id": "0004-median-of-two-sorted-arrays",
